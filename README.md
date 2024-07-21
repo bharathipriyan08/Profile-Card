@@ -6,4 +6,4 @@ This project showcases a profile card built using HTML, CSS (TailwindCSS), and J
 ## Live Demo
 To view the profile card, open the following HTML file in your local browser:
 
-[Open Profile Card](file:///C:/Users/bharathi%20priyan/Profile-card/index.html)
+[Click to see](file:///C:/Users/bharathi%20priyan/Profile-card/index.html)
